@@ -1,6 +1,6 @@
-# suicide-guardiAIn
+# si-guardiAIn
 
-suicide guardiAIn is an innovative mobile or web application that leverages machine learning (ML) trained on historical data to detect potential suicidal ideation (SI) in users based on their software usage, search input, time of usage, and general knowledge patterns. The app aims to intervene at critical moments and provide efficient and effective suicide prevention resources and actions to help individuals in distress.
+`si-guardiAIn` is an innovative mobile or web application that leverages machine learning (ML) trained on historical data to detect potential suicidal ideation (SI) in users based on their software usage, search input, time of usage, and general knowledge patterns. The app aims to intervene at critical moments and provide efficient and effective suicide prevention resources and actions to help individuals in distress.
 
 For this project, Python would be a suitable coding language due to its extensive ML libraries and ease of implementation. Additionally, using web development technologies such as HTML, CSS, and JavaScript will be essential if you plan to create a web app.
 
